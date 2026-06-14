@@ -99,7 +99,7 @@ StockOracle/
 
 git clone https://github.com/anjalideshmukh969/StockOracle.git
 
-cd StockOracle
+cd DL-PROJECT
 
 ---
 
@@ -119,7 +119,7 @@ cd backend
 
 npm install
 
-npm run dev
+npx nodemon (server start)
 
 ---
 
