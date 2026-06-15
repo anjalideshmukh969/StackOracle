@@ -206,6 +206,10 @@ Outputs:
 * Confidence Score
 
 ---
+* Email Alerts
+* AI Chat Assistant
+
+--- -->
 
 ## Future Enhancements
 
@@ -213,10 +217,7 @@ Outputs:
 * Sentiment Analysis
 * Candlestick Charts
 * News-Based Predictions
-* Email Alerts
-* AI Chat Assistant
 
---- -->
 
 ## Author
 
